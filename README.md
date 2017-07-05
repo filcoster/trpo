@@ -1,1 +1,1 @@
-# trpo
+[![Build Status](https://travis-ci.org/filcoster/trpo.svg?branch=master)](https://travis-ci.org/filcoster/trpo)
