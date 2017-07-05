@@ -47,7 +47,7 @@ break;
 printf("Упс\n");
 break;
 		case 7:
-printf("Che?\n");
+printf("?\n");
 break;
 	}
 	return 0;
